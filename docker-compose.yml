@@ -1,0 +1,9 @@
+# Damn Vulnerable NodeJS Application
+
+version: "2.1"
+services:
+  app:
+    build:
+      context: ./
+    ports:
+      - 9090:9090
