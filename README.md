@@ -8,12 +8,12 @@ This version of DVNA is a fork of the original project https://github.com/appsec
 
 Clone the repository
 ```bash
-git clone https://github.com/appsecco/dvna-sqlite; cd dvna
+git clone https://github.com/appsecco/dvna-sqlite; cd dvna-sqlite
 ```
 
 Start using docker compose
 ```bash
-docker-compponse up
+docker-compose up
 ```
 
 Access the application at http://localhost:9090
@@ -22,7 +22,7 @@ Access the application at http://localhost:9090
 
 Clone the repository
 ```bash
-git clone https://github.com/appsecco/dvna-sqlite; cd dvna
+git clone https://github.com/appsecco/dvna-sqlite; cd dvna-sqlite
 ```
 
 Install Dependencies
